@@ -8,6 +8,7 @@
 > ICO(Initial Coin Offering)-> STO (Security Token Offering)  
 
 **去中心化** 讓中間人消失  & **三角悖論** 安全、效能、去中心 必捨一
+**以太坊** 能做任何事的世界電腦  & **智能合約** 預先設立的被動規則  
 
 比特幣 [半衰鐘](https://www.bitcoinclock.com/) 一個物件的需求由大眾需求決定
 
