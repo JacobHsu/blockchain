@@ -15,6 +15,13 @@
 
 比特幣 [半衰鐘](https://www.bitcoinclock.com/) 一個物件的需求由大眾需求決定
 
+## MetaMask
+
+[One-click Login with Blockchain: A MetaMask Tutorial](https://www.toptal.com/ethereum/one-click-login-flows-a-metamask-tutorial)  
+amaurymartiny/[login-with-metamask-demo](https://github.com/amaurymartiny/login-with-metamask-demo)  
+
+[No Longer Injecting web3.js](https://medium.com/metamask/no-longer-injecting-web3-js-4a899ad6e59e)  
+
 ## doc
 
 [24小时玩转MyEtherWallet钱包开发](https://chaindesk.cn/witbook/1/3)  
