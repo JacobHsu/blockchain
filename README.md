@@ -29,7 +29,9 @@ amaurymartiny/[login-with-metamask-demo](https://github.com/amaurymartiny/login-
 
 ## Tool
 
+[ethereum.org](https://ethereum.org/) Ethereum is a global, open-source platform for decentralized applications.
 [ethfiddle](https://ethfiddle.com/) 智能合約線上編輯器  
 [etherscan](https://etherscan.io/) 以太幣區塊鏈瀏覽器　　
-
-
+[ethernodes.org](https://www.ethernodes.org/) - The Ethereum Network & Node
+[Ethereum Network Status](https://ethstats.net/)
+[Mist](https://github.com/ethereum/mist/releases) Ethereum Wallet
