@@ -22,6 +22,10 @@ amaurymartiny/[login-with-metamask-demo](https://github.com/amaurymartiny/login-
 
 [No Longer Injecting web3.js](https://medium.com/metamask/no-longer-injecting-web3-js-4a899ad6e59e)  
 
+## solidity
+
+[cryptozombies](https://cryptozombies.io/en/course) course
+
 ## doc
 
 [24小时玩转MyEtherWallet钱包开发](https://chaindesk.cn/witbook/1/3)  
